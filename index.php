@@ -28,7 +28,7 @@
                         <br>
                         <button class="btn btn-primary form-control my-3"><i class="fa-solid fa-user"></i> Entrar</button>
                         <br>
-                        <a href="registro.php" class="btn btn-danger form-control my-3"><i class="fa-solid fa-user-pen"></i> Registro</a>
+                        <a href="registro.html" class="btn btn-danger form-control my-3"><i class="fa-solid fa-user-pen"></i> Registro</a>
                         <br>
 
                       </form>
